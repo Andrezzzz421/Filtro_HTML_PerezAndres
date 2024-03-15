@@ -1,3 +1,66 @@
+.campus{
+    position: absolute;
+    font-size: 2vw;
+    color: #087f5b;
+    left: 3vw;
+
+}
+
+.tdp{
+    position: absolute;
+    text-decoration: none;
+    left: 4vw;
+    top: 20vh;
+    font-size: 1.5vw;
+    color: #087f5b;
+}
+
+.abg{
+    position: absolute;
+    text-decoration: none;
+    left: 4vw;
+    top: 28vh;
+    font-size: 1.5vw;
+    color: #087f5b;
+}
+
+.cms{
+    position: absolute;
+    text-decoration: none;
+    left: 4vw;
+    top: 36vh;
+    font-size: 1.5vw;
+    color: #087f5b;
+}
+
+.pnt{
+    position: absolute;
+    text-decoration: none;
+    left: 4vw;
+    top: 44vh;
+    font-size: 1.5vw;
+    color: #087f5b;
+}
+
+.car{
+    position: absolute;
+    text-decoration: none;
+    left: 4vw;
+    top: 64vh;
+    font-size: 1.5vw;
+    color: #087f5b;
+}
+
+.uwu{
+
+    position: absolute;
+    text-decoration: none;
+    left: 4vw;
+    top: 86vh;
+    font-size: 1.5vw;
+    color: #087f5b;
+
+}
 
 .contenedor{
     position: absolute;
@@ -116,7 +179,7 @@
     border: 2px solid #278f6f;
     border-radius: 20px;
     top: 39.5vh;
-    left: 41.5vi;
+    left: 41.5vw;
     width: 18vw;
     height: 7.5vh;
     z-index: 1;
@@ -133,7 +196,7 @@
 .txt5{
     position: absolute;
     top: 43vh;
-    left: 42vi;
+    left: 42vw;
     color: #278f6f;
 }
 
@@ -153,6 +216,72 @@
 }
 
 .a2:hover{
+    background-color: rgb(26, 214, 83);
+    z-index: 1;
+}
+
+.cuadro3{
+    position: absolute;
+    border: 2px solid #d6d6d6;
+    border-radius: 20px;
+    top: 11vh;
+    left: 61vw;
+    width: 18vw;
+    height: 36vh;
+}
+
+.sobrecuadro3{
+    position: absolute;
+    border: 2px solid #d6d6d6;
+    border-radius: 20px;
+    top: 11vh;
+    left: 61vw;
+    width: 18vw;
+    height: 36vh;
+}
+
+.cpr2{
+    position: absolute;
+    border: 2px solid #278f6f;
+    border-radius: 20px;
+    top: 39.5vh;
+    left: 61vw;
+    width: 18vw;
+    height: 7.5vh;
+    z-index: 1;
+}
+
+.txt6{
+    position: absolute;
+    top: 39.5vh;
+    left: 61.5vw;
+    color: #278f6f;
+    font-size: 0.8vw;
+}
+
+.txt7{
+    position: absolute;
+    top: 43vh;
+    left: 61.5vw;
+    color: #278f6f;
+}
+
+.a3{
+    background-color: #087f5b;
+    width: 5.5vw;
+    height: 2.5vh;
+    border-radius: 10px;
+    left: 72vw;
+    top: 43.8vh;
+    text-align: center;
+    padding-top: 0.3vh;
+    color:white;
+    position: absolute;
+    text-decoration: none;
+    z-index: 1;
+}
+
+.a3:hover{
     background-color: rgb(26, 214, 83);
     z-index: 1;
 }
