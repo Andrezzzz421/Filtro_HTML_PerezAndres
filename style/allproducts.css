@@ -51,6 +51,18 @@
     color: #087f5b;
 }
 
+.cared{
+    position: absolute;
+    border: 2px solid #278f6f;
+    border-radius: 6px;
+    top: 64.5vh;
+    left: 10vw;
+    width: 1.5vw;
+    height: 2vh;
+    text-align: center;
+    padding-top: 0.5vh;
+}
+
 .uwu{
 
     position: absolute;
@@ -62,22 +74,22 @@
 
 }
 
+.all{
+    position: absolute;
+    top: -2vh;
+    left: 2vw;
+    font-size: 2vi;
+    color: #278f6f;
+}
+
 .contenedor{
     position: absolute;
     border: 2px solid #278f6f;
     border-radius: 20px;
     top: 2vi;
     left: 20vi;
-    width: 79vi;
-    height: 48vi;
-}
-
-.abrigo{
-    position: absolute;
-    top: 1vh;
-    left: 22vw;
-    font-size: 2vi;
-    color: #278f6f;
+    width: 152vh;
+    height: 92vh;
 }
 
 .cuadro1{
@@ -85,17 +97,7 @@
     border: 2px solid #d6d6d6;
     border-radius: 20px;
     top: 11vh;
-    left: 22vw;
-    width: 18vw;
-    height: 36vh;
-}
-
-.sobrecuadro1{
-    position: absolute;
-    border: 2px solid #d6d6d6;
-    border-radius: 20px;
-    top: 11vh;
-    left: 22vw;
+    left: 2vw;
     width: 18vw;
     height: 36vh;
 }
@@ -113,7 +115,7 @@
     border: 2px solid #278f6f;
     border-radius: 20px;
     top: 39.5vh;
-    left: 22vi;
+    left: 2vw;
     width: 18vw;
     height: 7.5vh;
     z-index: 1;
@@ -122,7 +124,7 @@
 .txt2{
     position: absolute;
     top: 39.5vh;
-    left: 23vw;
+    left: 3vw;
     color: #278f6f;
     font-size: 0.8vw;
 }
@@ -130,19 +132,19 @@
 .txt3{
     position: absolute;
     top: 43vh;
-    left: 23vw;
+    left: 3vw;
     color: #278f6f;
 }
 
 .a1{
     background-color: #087f5b;
-    width: 5.5vw;
+    width: 4vw;
     height: 2.5vh;
     border-radius: 10px;
-    left: 33vw;
+    left: 12vw;
     top: 43.8vh;
-    text-align: center;
-    padding-top: 0.3vh;
+    align-items: center;
+    padding-left: 1vw;
     color:white;
     position: absolute;
     text-decoration: none;
@@ -158,18 +160,8 @@
     position: absolute;
     border: 2px solid #d6d6d6;
     border-radius: 20px;
-    top: 11vh;
-    left: 41.5vw;
-    width: 18vw;
-    height: 36vh;
-}
-
-.sobrecuadro2{
-    position: absolute;
-    border: 2px solid #d6d6d6;
-    border-radius: 20px;
-    top: 11vh;
-    left: 41.5vw;
+    top: 15vh;
+    left: 41vw;
     width: 18vw;
     height: 36vh;
 }
@@ -178,8 +170,8 @@
     position: absolute;
     border: 2px solid #278f6f;
     border-radius: 20px;
-    top: 39.5vh;
-    left: 41.5vw;
+    top: 43.5vh;
+    left: 41vw;
     width: 18vw;
     height: 7.5vh;
     z-index: 1;
@@ -187,16 +179,16 @@
 
 .txt4{
     position: absolute;
-    top: 39.5vh;
-    left: 42vw;
+    top: 43vh;
+    left: 41.5vw;
     color: #278f6f;
     font-size: 0.8vw;
 }
 
 .txt5{
     position: absolute;
-    top: 43vh;
-    left: 42vw;
+    top: 47vh;
+    left: 41.5vw;
     color: #278f6f;
 }
 
@@ -205,8 +197,8 @@
     width: 5.5vw;
     height: 2.5vh;
     border-radius: 10px;
-    left: 52vw;
-    top: 43.8vh;
+    left: 51vw;
+    top: 47.6vh;
     text-align: center;
     padding-top: 0.3vh;
     color:white;
@@ -224,18 +216,8 @@
     position: absolute;
     border: 2px solid #d6d6d6;
     border-radius: 20px;
-    top: 11vh;
-    left: 61vw;
-    width: 18vw;
-    height: 36vh;
-}
-
-.sobrecuadro3{
-    position: absolute;
-    border: 2px solid #d6d6d6;
-    border-radius: 20px;
-    top: 11vh;
-    left: 61vw;
+    top: 15vh;
+    left: 60vw;
     width: 18vw;
     height: 36vh;
 }
@@ -244,8 +226,8 @@
     position: absolute;
     border: 2px solid #278f6f;
     border-radius: 20px;
-    top: 39.5vh;
-    left: 61vw;
+    top: 43.5vh;
+    left: 60vw;
     width: 18vw;
     height: 7.5vh;
     z-index: 1;
@@ -253,16 +235,16 @@
 
 .txt6{
     position: absolute;
-    top: 39.5vh;
-    left: 61.5vw;
+    top: 43vh;
+    left: 61vw;
     color: #278f6f;
     font-size: 0.8vw;
 }
 
 .txt7{
     position: absolute;
-    top: 43vh;
-    left: 61.5vw;
+    top: 47vh;
+    left: 61vw;
     color: #278f6f;
 }
 
@@ -271,8 +253,8 @@
     width: 5.5vw;
     height: 2.5vh;
     border-radius: 10px;
-    left: 72vw;
-    top: 43.8vh;
+    left: 70vw;
+    top: 47.6vh;
     text-align: center;
     padding-top: 0.3vh;
     color:white;
@@ -290,45 +272,34 @@
     position: absolute;
     border: 2px solid #d6d6d6;
     border-radius: 20px;
-    top: 11vh;
-    left: 80.6vw;
+    top: 15vh;
+    left: 79vw;
     width: 18vw;
     height: 36vh;
 }
 
-.sobrecuadro4{
-    position: absolute;
-    border: 2px solid #d6d6d6;
-    border-radius: 20px;
-    top: 11vh;
-    left: 80.6vw;
-    width: 18vw;
-    height: 36vh;
-}
-
-.cpr3{
+.cpr10{
     position: absolute;
     border: 2px solid #278f6f;
     border-radius: 20px;
-    top: 39.5vh;
-    left: 80.6vw;
+    top: 43.5vh;
+    left: 79vw;
     width: 18vw;
     height: 7.5vh;
-    z-index: 1;
 }
 
 .txt8{
     position: absolute;
-    top: 39.5vh;
-    left: 82vw;
+    top: 43vh;
+    left: 80vw;
     color: #278f6f;
     font-size: 0.8vw;
 }
 
 .txt9{
     position: absolute;
-    top: 43vh;
-    left: 82vw;
+    top: 47vh;
+    left: 80vw;
     color: #278f6f;
 }
 
@@ -337,8 +308,8 @@
     width: 5.5vw;
     height: 2.5vh;
     border-radius: 10px;
-    left: 91vw;
-    top: 43.8vh;
+    left: 89vw;
+    top: 47.7vh;
     text-align: center;
     padding-top: 0.3vh;
     color:white;
@@ -348,72 +319,6 @@
 }
 
 .a4:hover{
-    background-color: rgb(26, 214, 83);
-    z-index: 1;
-}
-
-.cuadro5{
-    position: absolute;
-    border: 2px solid #d6d6d6;
-    border-radius: 20px;
-    top: 55vh;
-    left: 22vw;
-    width: 18vw;
-    height: 36vh;
-}
-
-.sobrecuadro5{
-    position: absolute;
-    border: 2px solid #d6d6d6;
-    border-radius: 20px;
-    top: 55vh;
-    left: 22vw;
-    width: 18vw;
-    height: 36vh;
-}
-
-.cpr3{
-    position: absolute;
-    border: 2px solid #278f6f;
-    border-radius: 20px;
-    top: 83.4vh;
-    left: 22vw;
-    width: 18vw;
-    height: 7.5vh;
-    z-index: 1;
-}
-
-.txt10{
-    position: absolute;
-    top: 84vh;
-    left: 23vw;
-    color: #278f6f;
-    font-size: 0.8vw;
-}
-
-.txt11{
-    position: absolute;
-    top: 87vh;
-    left: 23vw;
-    color: #278f6f;
-}
-
-.a5{
-    background-color: #087f5b;
-    width: 5.5vw;
-    height: 2.5vh;
-    border-radius: 10px;
-    left: 33vw;
-    top: 87.5vh;
-    text-align: center;
-    padding-top: 0.3vh;
-    color:white;
-    position: absolute;
-    text-decoration: none;
-    z-index: 1;
-}
-
-.a5:hover{
     background-color: rgb(26, 214, 83);
     z-index: 1;
 }
