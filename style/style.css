@@ -1,0 +1,17 @@
+.cuadro1{
+    position: absolute;
+    border: 2px solid #278f6f;
+    border-radius: 20px;
+    top: 5vh;
+    left: 20vw;
+    width: 77vw;
+    height: 90vh;
+}
+
+.txt1{
+    position: absolute;
+    top: 4vh;
+    left: 22vw;
+    font-size: 2vw;
+    color: #278f6f;
+}
